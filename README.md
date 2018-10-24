@@ -1,5 +1,6 @@
 # ZTBD_Buildings
 Opis bazy danych – Mieszkania
+
    Zaproponowany przez nas projekt będzie relacyjną bazą danych, odzwierciedlającą pracę biura sprzedaży oraz kupna mieszkań. Zależy nam, aby struktura podziału danych była możliwie jak najprostsza, a tabele skonstruowane były w sposób jak najbardziej logiczny. 
 
 Projekt będzie opierał się on będzie na zestawie tabel, do najważniejszych z nich należeć będą:
