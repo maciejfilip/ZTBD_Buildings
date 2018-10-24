@@ -5,6 +5,7 @@ Opis bazy danych – Mieszkania
 
 Projekt będzie opierał się on będzie na zestawie tabel, do najważniejszych z nich należeć będą:
 - Buildings
+
 Tabela zawierająca produkt jakim będziemy rozporządzać – mieszkania. Poza ceną, metrażem i adresem, tabela posiadać będzie takie dane jak aktualny stan nieruchomości, wyposażenie oraz datę dodania do naszej bazy danych.                                                                           
 - Users  
 Tabela zawierająca podstawowe dane dotyczące użytkowników naszego biura nieruchomości. Poza imieniem, nazwiskiem i danymi teleadresowymi zawarty tutaj będzie status danego użytkownika.                                                                                                                                                        
